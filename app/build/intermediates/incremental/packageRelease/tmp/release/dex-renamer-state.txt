@@ -1,0 +1,4 @@
+#Mon Dec 21 04:52:50 IST 2020
+base.0=C\:\\Users\\saile\\Desktop\\AndroidApp\\LocalDataApp\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

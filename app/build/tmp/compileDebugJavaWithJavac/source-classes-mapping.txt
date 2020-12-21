@@ -1,0 +1,2 @@
+com/test/localdataapp/BuildConfig.java
+ com.test.localdataapp.BuildConfig

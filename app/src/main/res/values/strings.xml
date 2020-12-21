@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Local Data App</string>
+    <string name="name">User Name</string>
+    <string name="remote">Remote Data</string>
+</resources>
